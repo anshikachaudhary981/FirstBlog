@@ -7,9 +7,13 @@ But We as humans unable to hear it. Seaborn and matplotlib like libraries provid
 Here I am importing Zomato Bangalore restaurant data set. And we will be answering a few questions clearly just by seeing some plots.
 ## Questions :
 i. What are the top chains of restaurants in Bangalore?
+
 ii. What are the most common types of restaurants in Bangalore?
+
 iii. Most popular cuisine in Bangalore?
+
 iv. How many restaurants accept online orders?
+
 v. Various Types of Restaurants providing table bookings or not?
 
 
@@ -23,6 +27,7 @@ v. Various Types of Restaurants providing table bookings or not?
 the output is the sum of null values in individual column
 
 HeatMap visualizing null values
+
 4.Plotting a bar plot to answer our first question clearly
 
 Code for the BarPlot
@@ -34,10 +39,13 @@ We can easily interpret in a second that the most types of restaurants are Quick
 
 Bar plot Code and Output for the Cuisines
 North Indian is the most demanded Cuisine and Bakery is the least demanded one in Bangalore.
+
 5. Plotting a Pie Chart to depict the clear picture.
 
 Pie chart evaluating the percentage of restaurants accepting online orders and not
 Here clearly 58.9% of restaurants accept Online Orders. A major portion of restaurants accepts online orders. But there is also a significant count of the restaurants not accepting online orders.
+
+
 6. A Count Plot
 
 Code for plotting a count plot depicting booking facility is provided or not
